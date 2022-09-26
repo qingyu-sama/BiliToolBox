@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiliToolBox", "BiliToolBox\BiliToolBox.csproj", "{DE326A3F-44EE-42E2-BD89-E2FD4623CFEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiliToolBox.Test", "BiliToolBox.Test\BiliToolBox.Test.csproj", "{DF7C7BDD-C2D1-46B5-B282-E89CA15C8A8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE326A3F-44EE-42E2-BD89-E2FD4623CFEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE326A3F-44EE-42E2-BD89-E2FD4623CFEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE326A3F-44EE-42E2-BD89-E2FD4623CFEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE326A3F-44EE-42E2-BD89-E2FD4623CFEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF7C7BDD-C2D1-46B5-B282-E89CA15C8A8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF7C7BDD-C2D1-46B5-B282-E89CA15C8A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF7C7BDD-C2D1-46B5-B282-E89CA15C8A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF7C7BDD-C2D1-46B5-B282-E89CA15C8A8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92D7193A-FDCF-4B9D-9808-84DBC6419F05}
+	EndGlobalSection
+EndGlobal
