@@ -1,3 +1,5 @@
 ﻿using BiliToolBox.Clients;
+using System.Web;
 
-BiliClient biliClient = BiliClient.QrLoginAndWaitForLogined();
+BiliClient biliClient = new();
+biliClient.Login(BiliToolBox.Enums.LoginType.QrCode);
